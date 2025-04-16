@@ -2,11 +2,13 @@
 
 # Future plans
 ---------------
-Branching out into more c++ heavy topics
-Working on more self automation tools
-And just pretty much anything I can think of.
+##Branching out into more c++ heavy topics
+##Working on more self automation tools
+##And just pretty much anything I can think of.
 
-You can go check out my website at https://deer.rocks (not currently up)
+##You can go check out my website at https://deer.rocks (not currently up)
+
+
 
 <!--
 **eth2lyne/eth2lyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
