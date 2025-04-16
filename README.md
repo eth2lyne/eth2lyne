@@ -1,10 +1,13 @@
 ## Hi! 👋 I'm ethelyne, this is my github page.
 
 # Future plans
+
 ---------------
+
 ##Branching out into more c++ heavy topics
+
 ##Working on more self automation tools
-##And just pretty much anything I can think of.
+
 
 ##You can go check out my website at https://deer.rocks (not currently up)
 
